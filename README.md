@@ -130,13 +130,3 @@ See full guidelines in [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 Content licensed under **CC BY 4.0**.  
 Each linked project retains its own license.
 ```
-
----
-
-### How to use
-
-1. **Copy** everything between the code fences into your new `README.md`.
-2. Swap `YOUR-ID` in the Buy-Me-A-Coffee link (or remove that section).
-3. Expand categories or add more projects anytime — just match the style and emoji legend.
-
-Happy shipping! 🎉
