@@ -129,4 +129,3 @@ See full guidelines in [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
 Content licensed under **CC BY 4.0**.  
 Each linked project retains its own license.
-```
